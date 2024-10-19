@@ -13,9 +13,9 @@
 - Developing a mindfulness app focused on relaxation, integrating **OpenAI** capabilities
 
 ### Snake Eating My Contribution Graph
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation" style="max-width: 100%; height: auto; border: none;"/>
-</p>
+![GitHub Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!---
 rdwaynedehoedt/rdwaynedehoedt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
