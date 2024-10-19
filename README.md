@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Dwayne De Hoedt (@rdwaynedehoedt)
 
-- 👀 I’m interested in **DevOps, Software Engineering, Mental Health Apps, and Guitar**
 - 🌱 I’m currently learning **Flutter, Dart, Prisma with PlanetScale, and improving my skills in Hybrid App Development**
 - 💞️ I’m looking to collaborate on **projects related to mental health and relaxation, specifically those using AI and Flutter**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/rdwaynedehoedt)**
