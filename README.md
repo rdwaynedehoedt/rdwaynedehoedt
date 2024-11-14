@@ -7,7 +7,7 @@
 ---
 
 - 🌱 I’m currently expanding my knowledge in **Flutter**, **Dart**, and **Hybrid App Development**.
-- 🚀 Aspiring to become a **Software Engineer** with a passion for **DevOps**.
+- 🚀 Aspiring to become a **Software Engineer**
 - 🎸 Fun fact: **I'm both an aspiring software engineer and a guitarist**.
 
 ---
