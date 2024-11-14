@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Dwayne De Hoedt (@rdwaynedehoedt)</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rdwaynedehoedt&color=blue&style=flat-square" alt="Profile Views">
   <img src="https://streak-stats.demolab.com/?user=rdwaynedehoedt&theme=dark" alt="GitHub Streak">
 </p>
 
