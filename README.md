@@ -22,15 +22,6 @@
 
 ---
 
-<h2 align="center">🏆 Projects & Achievements</h2>
-
-- 🏥 **Imagine Cup 2025**: Developing a healthcare app focused on mental health (depression, anxiety, and more).
-- 🤖 **'Talk to Me'**: An AI-powered chatbot for mental health and relaxation using OpenAI capabilities.
-- 💼 **Marketing Intern at WSO2**: Working on marketing for the **Choreo** platform while preparing for a software engineering transition.
-- 🌿 **Mindfulness App**: Building a relaxation-focused app integrating AI for personalized user experiences.
-
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
