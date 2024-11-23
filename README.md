@@ -34,14 +34,6 @@
 
 ---
 
-<h2 align="center">🐍 Snake Eating My Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake animation">
-</p>
-
----
-
 <h2 align="center">🌐 Tech Stack</h2>
 
 <p align="center">
