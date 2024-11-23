@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" alt="Firebase">
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
 </p>
 
 ---
