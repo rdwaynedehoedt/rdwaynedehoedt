@@ -6,9 +6,9 @@
 
 ---
 
-- 🌱 I’m currently expanding my knowledge in **Flutter**, **Dart**, and **Hybrid App Development**.
-- 🚀 Aspiring to become a **Software Engineer**
-- 🎸 Fun fact: **I'm both an aspiring software engineer and a guitarist**.
+- 🌱 Currently learning **Flutter**, **Dart**, and **Hybrid App Development**.
+- 🚀 Aspiring **Software Engineer**.
+- 🎸 Fun fact: **Guitarist** and aspiring software engineer.
 
 ---
 
@@ -41,18 +41,12 @@
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square" alt="Dart">
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square" alt="Firebase">
-  <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
 </p>
 
 ---
 
-<h2 align="center">📬 How to Reach Me</h2>
+<h2 align="center">📬 Reach Me</h2>
 
 <p align="center">
-  Connect on <a href="https://www.linkedin.com/in/rdwaynedehoedt"><strong>LinkedIn</strong></a> for collaboration opportunities and inquiries.
+  Connect on <a href="https://www.linkedin.com/in/rdwaynedehoedt"><strong>LinkedIn</strong></a> for collaboration.
 </p>
-
-<!---
-rdwaynedehoedt/rdwaynedehoedt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
