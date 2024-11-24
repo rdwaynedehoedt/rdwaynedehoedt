@@ -11,16 +11,6 @@
 
 ---
 
-<h2 align="center">🔗 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rdwaynedehoedt">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a>
-</p>
-
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
