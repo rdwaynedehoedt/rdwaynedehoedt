@@ -25,10 +25,6 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdwaynedehoedt&show_icons=true&theme=dark" alt="Dwayne's GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwaynedehoedt&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
