@@ -5,8 +5,7 @@
 </p>
 
 ---
-- 🌱 Currently learning **Flutter**, **Dart**, and **Hybrid App Development**.
-- 🚀 Aspiring **Software Engineer**.
+- 🚀 open source enthusiast
 - 🎸 Fun fact: **Guitarist** and aspiring software engineer.
 
 ---
