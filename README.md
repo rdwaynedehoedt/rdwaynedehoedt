@@ -1,5 +1,4 @@
 <h1 >👋 Hi, I'm Dwayne DeHoedt</h1>
----
 - 🚀 open source enthusiast
 
 - 🎸 Fun fact: **Guitarist** and aspiring software engineer.
