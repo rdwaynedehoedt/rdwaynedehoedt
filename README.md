@@ -6,7 +6,7 @@ Currently pursuing a **BSc in Computer Science and Software Engineering** at **S
 
 ### 🛠 Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,kotlin,firebase,git,github,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,kotlin, Bootstrap, Java, React, Dart, Flutter,	C++,firebase,git,github,figma" alt="Tech Stack" />
 </p>
 
 ### 📈 GitHub Stats  
