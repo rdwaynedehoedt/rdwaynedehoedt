@@ -15,17 +15,16 @@
 ---
 
 ### 🚀 About Me  
-I'm a passionate **Software Developer** and **Open-Source Contributor** with experience in **web and mobile development**. Currently pursuing a **BSc in Computer Science and Software Engineering** at **SLIIT City University**.  
+I'm a **Software Developer** and **Open-Source Contributor** passionate about web and mobile development.  
+Currently pursuing a **BSc in Computer Science and Software Engineering** at **SLIIT City University**.  
 
-💻 **Tech Stack:**  
-- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
-- **Backend:** PHP, SQL, Firebase  
-- **Mobile Development:** Kotlin, Flutter  
-- **Tools & Platforms:** Git, GitHub, Figma, Firebase, MySQL  
+---
 
-🔹 Currently working as a **Sales Development Representative at WSO2**  
-🔹 Former **Customer Solution Representative at HSBC**  
-🔹 **Open-source contributor** and passionate about building impactful projects  
+### 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,kotlin,firebase,git,github,figma" alt="Tech Stack" />
+</p>
 
 ---
 
