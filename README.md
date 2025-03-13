@@ -2,41 +2,34 @@
 
 <p align="center">
   <a href="https://github.com/rdwaynedehoedt">
-    <img src="https://img.shields.io/github/followers/rdwaynedehoedt?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/rdwaynedehoedt?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="https://www.linkedin.com/in/dwaynedehoedt/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:dwaynedehoedt@example.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
+  <a href="mailto:dwaynedehoedt.rosch@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+### 🚀 About Me  
+I'm a passionate **Software Developer** and **Open-Source Contributor** with experience in **web and mobile development**. Currently pursuing a **BSc in Computer Science and Software Engineering** at **SLIIT City University**.  
 
-<p align="center">
-  I'm a passionate software developer from Colombo, Sri Lanka, specializing in full-stack development. I enjoy building scalable web applications and exploring new technologies.
-</p>
+💻 **Tech Stack:**  
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
+- **Backend:** PHP, SQL, Firebase  
+- **Mobile Development:** Kotlin, Flutter  
+- **Tools & Platforms:** Git, GitHub, Figma, Firebase, MySQL  
 
----
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<p align="center">
-  <!-- For more icons, visit: https://github.com/devicons/devicon/tree/master/icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+🔹 Currently working as a **Sales Development Representative at WSO2**  
+🔹 Former **Customer Solution Representative at HSBC**  
+🔹 **Open-source contributor** and passionate about building impactful projects  
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+### 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdwaynedehoedt&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -46,32 +39,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwaynedehoedt&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rdwaynedehoedt&theme=dark" alt="GitHub Streak">
-</p>
-
 ---
 
-<h2 align="center">📚 Featured Projects</h2>
+### 📬 Connect with Me  
+📧 **Email:** [dwaynedehoedt.rosch@gmail.com](mailto:dwaynedehoedt.rosch@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/dwaynedehoedt](https://www.linkedin.com/in/dwaynedehoedt/)  
 
-<p align="center">
-  <a href="https://github.com/rdwaynedehoedt/AI-LMS-SAAS-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdwaynedehoedt&repo=AI-LMS-SAAS-App&theme=dark" alt="AI-LMS-SAAS-App">
-  </a>
-  <a href="https://github.com/rdwaynedehoedt/Gallery-Cafe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdwaynedehoedt&repo=Gallery-Cafe&theme=dark" alt="Gallery-Cafe">
-  </a>
-</p>
-
----
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dwaynedehoedt/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="mailto:dwaynedehoedt@example.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
-  </a>
-</p>
