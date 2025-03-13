@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dwayne DeHoedt
+# 👋 Hi, I'm Dwayne
 
 ### 🚀 About Me  
 I'm a **Software Developer** and **Open-Source Contributor** passionate about web and mobile development.  
@@ -11,9 +11,8 @@ Currently pursuing a **BSc in Computer Science and Software Engineering** at **S
 
 ### 📈 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rdwaynedehoedt&show_icons=true&theme=radical&hide=contribs,prs" height="170" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=rdwaynedehoedt&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwaynedehoedt&layout=compact&theme=radical" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=rdwaynedehoedt&show_icons=true&theme=dark&hide=contribs,prs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwaynedehoedt&layout=compact&theme=dark" height="150" />
 </p>
 
 ### 📬 Connect with Me  
