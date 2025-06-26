@@ -1,23 +1,31 @@
-# 👋 Hi, I'm Dwayne
+# 👋 Hey there, I'm Dwayne!
 
-### 🚀 About Me  
-I'm a **Software Developer** and **Open-Source Contributor** passionate about web and mobile development.  
-Currently pursuing a **BSc in Computer Science and Software Engineering** at **SLIIT City University**.  
+### 💻 Just a Guy Who Codes... Sometimes 😅  
+I'm a **Software Developer-ish** who loves building cool stuff on the web and mobile — and sometimes even makes it work on the first try.  
+Currently winging it at **SLIIT City Uni** (aka getting my degree in **CS & Software Eng**) and figuring life out one debug session at a time.
 
-### 🛠 Tech Stack  
+---
+
+### 🧰 My Toolbox  
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,kotlin,bootstrap,java,dart,flutter,cpp,firebase,git,github,figma" alt="Tech Stack" />
 </p>
 
-### 📈 GitHub Stats  
+---
+
+### 📊 Stats that make me look busy  
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rdwaynedehoedt&show_icons=true&theme=dark&hide=contribs,prs" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdwaynedehoedt&layout=compact&theme=dark" height="150" />
 </p>
 
-### 📬 Connect with Me  
+---
+
+### 📬 Hit Me Up  
+If you’re into code, coffee, or chaotic debugging energy, let’s connect!
+
 📧 **Email:** [dwaynedehoedt.rosch@gmail.com](mailto:dwaynedehoedt.rosch@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/dwaynedehoedt](https://www.linkedin.com/in/dwaynedehoedt/)  
+🔗 **LinkedIn:** [linkedin.com/in/dwaynedehoedt](https://www.linkedin.com/in/dwaynedehoedt/)
 
 <p>
   <a href="https://github.com/rdwaynedehoedt">
