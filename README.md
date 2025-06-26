@@ -1,28 +1,22 @@
-# 👋 Yo, I'm Dwayne
+# 👋 Hey, I'm Dwayne
 
-sometimes I code.  
-sometimes it works.  
-most of the time I just stare at the screen and vibe.
+I'm a developer who enjoys building cool stuff — web, mobile, whatever feels right.  
+Currently studying **Computer Science** at **UOB**.  
+I just code somtimes 
 
-I study CS (or at least pretend to).  
-I build stuff and push to GitHub like I know what I'm doing.
+## 🧠 What I'm up to
 
-> “if it compiles, ship it.” – me probably
-
----
-
-## 📦 what's in my repos?
-stuff.  
-some of it works.  
-some of it shouldn't.
+- Working on some projects (check the repos 👀)
+- Trying to break less stuff in production
+- Exploring new tech, one bug at a time
 
 ---
 
-## 📬 find me here if you wanna say hi or send memes
+## 📬 Let's connect
 
 📧 [dwaynedehoedt.rosch@gmail.com](mailto:dwaynedehoedt.rosch@gmail.com)  
 🔗 [linkedin.com/in/dwaynedehoedt](https://www.linkedin.com/in/dwaynedehoedt)
 
 ---
 
-*peace ✌️*
+*Thanks for dropping by. Scroll around, you might find something cool.* ✌️
