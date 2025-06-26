@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Dwayne
 
-I'm a developer who enjoys building cool stuff — web, mobile, whatever feels right.  
+I'm a developer who enjoys building cool stuff web, mobile, whatever feels right.  
 Currently studying **Computer Science** at **UOB**.  
-I just code somtimes 
+I just code sometimes >.<
 
 ## 🧠 What I'm up to
 
