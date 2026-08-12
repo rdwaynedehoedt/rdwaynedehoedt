@@ -1,1 +1,1 @@
-Building Nova.
+Building Nova
